@@ -1,0 +1,59 @@
+============================
+17 April, 2018 - Version 1.1
+============================
+
+-------------------------------------------------------------------------------------------
+Backup your theme/style folder and files before applying these updates.
+-------------------------------------------------------------------------------------------
+The best way is to use a compare tool, like: https://www.devart.com/codecompare/
+and use it to compare the 'folders' (the version you're using with the new version)
+-------------------------------------------------------------------------------------------
+Updating HTML Templates Requires Manual Work.
+-------------------------------------------------------------------------------------------
+
+
+*. Changed code to support retina image
+*. Minor improvements
+*. Fixed some issues
+-------------------------------------------------------------------------------------------
+
+HTML Version:
+-------------------------------------------------------------------------------------------
+	*. Files/Folders Deleted:
+	------------------------------------
+		-> img/2x
+		-> plugins/color-switcher
+		-> plugins/sticky
+	
+	*. Files/Folders Added:
+	------------------------------------
+		-> Every image file with 2 new version (file@2x.png/jpg, file@3x.png/jpg)
+		-> plugins/waypoints/sticky.min.js
+
+	*. Files Affected (need to replace):
+	------------------------------------
+		-> css/style.css
+		-> css/responsive.css
+		-> js/scripts.js
+		-> 404.html
+		-> about.html
+		-> blog-details.html
+		-> blog-sidebar-left.html
+		-> blog-sidebar-right.html
+		-> blog.html
+		-> contact.html
+		-> domain.html
+		-> features.html
+		-> home-2.html
+		-> index.html
+		-> pricing.html
+		-> sendmail.html
+		-> team.html
+		-> testimonials.html
+
+WHMCS Version:
+-------------------------------------------------------------------------------------------
+	
+	*. Files Affected (need to replace):
+	------------------------------------
+		-> css/style.css

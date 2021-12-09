@@ -1,0 +1,19 @@
+============================
+4 December, 2018 - Version 1.4
+============================
+-------------------------------------------------------------------------------------------
+Backup your theme/style folder and files before applying these updates.
+-------------------------------------------------------------------------------------------
+The best way is to use a compare tool, like: https://www.devart.com/codecompare/
+and use it to compare the 'folders' (the version you're using with the new version)
+-------------------------------------------------------------------------------------------
+Updating HTML Templates Requires Manual Work.
+-------------------------------------------------------------------------------------------
+// # List of updates
+// ------------------------------
+** Two Homepage versions added.
+** Two Contactpage version added.
+** MegaMenu Included.
+** Header problem fixed!
+** Documentetion Updated.
+** Some CSS problem fixed. 

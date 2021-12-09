@@ -1,0 +1,4 @@
+// # List of updates
+// ------------------------------
+
+[*] WHMCS template updated to be compatible with latest "WHMCS Version 7.6.0" 
